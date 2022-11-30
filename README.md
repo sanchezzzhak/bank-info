@@ -1,6 +1,7 @@
 # bank-info
 Spot search of the bank name by the first six card numbers.
 
+created based on chekalsky/php-banks-db
 
 ### Usage
 ```php
@@ -34,7 +35,18 @@ Spot search of the bank name by the first six card numbers.
     "color" => "#0f5ba7"
   ]
   */
-  
-  
-  
 ```
+##### Support detect brands list (1499):
+
+
+##### List of card types (0):
+<details>
+<summary>Show details</summary>
+
+</details>
+
+##### List of banks (0):
+<details>
+<summary>Show details</summary>
+
+</details>
