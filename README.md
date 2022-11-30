@@ -20,7 +20,7 @@ Spot search of the bank name by the first six card numbers.
   ]
   */
   
-  $result = BankInfo::getBinInfo(533669);
+  $result = BankInfo::getBinInfo(558823);
   /*
   ^ array:7 [
     "cardType" => "MasterCard"
