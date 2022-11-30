@@ -4,7 +4,9 @@ Spot search of the bank name by the first six card numbers.
 
 ### Usage
 ```php
-  use BankInfo;
+
+  use \kak\BankInfo\BankInfo;
+
   $result = BankInfo::getBinInfo(533669);
 
   /*

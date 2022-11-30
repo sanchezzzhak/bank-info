@@ -1,0 +1,86 @@
+<?php
+
+namespace kak\BankInfo;
+
+
+class BankInfo
+{
+
+    /**
+     * Получить информацию по ид банка, о банке
+     *
+     * @param int $id
+     * @return array
+     */
+    public static function getBankInfoById(string $id): array
+    {
+        static $banks;
+        if (null === $banks){
+            $banks = spyc_load_file(__DIR__ . '/database/banks.yml');
+        }
+
+        return $banks[$id] ?? [];
+    }
+
+    /**
+     * Получить информацию
+     *
+     * @param string $firstSixBin
+     * @param string $lastFourBin
+     * @return array
+     */
+    public static function getBinInfo(string $firstSixBin, string $lastFourBin = ''): array
+    {
+        static $prefixes;
+        if (null === $prefixes){
+            $prefixes = spyc_load_file(__DIR__ . '/database/prefixes.yml');
+        }
+        $cardType = '';
+        $firstSixBin = substr($firstSixBin, 0, 8);
+        foreach (self::REGEX_CARD_TYPES as $cardType => $regex) {
+            if (preg_match($regex, $firstSixBin)) {
+                break;
+            }
+        }
+
+        $bankId = $prefixes[$firstSixBin] ?? 0;
+        if ($bankId === 0 && $lastFourBin !== '') {
+            $bankId = $prefixes[sprintf('%s-%s', $firstSixBin, $lastFourBin)] ?? 0;
+        }
+
+        return array_merge(['cardType' => $cardType], self::getBankInfoById((string)$bankId));
+    }
+
+    public const CARD_TYPE_INTER_PAYMENTS = 'InterPayments';
+    public const CARD_TYPE_ELECTRON = 'Electron';
+    public const CARD_TYPE_UNION_PAY = 'UnionPay';
+    public const CARD_TYPE_DISCOVER = 'Discover';
+    public const CARD_TYPE_MAESTRO = 'Maestro';
+    public const CARD_TYPE_VISA = 'Visa';
+    public const CARD_TYPE_MASTER_CARD = 'MasterCard';
+    public const CARD_TYPE_AMERICAN_EXPRESS = 'AmericanExpress';
+    public const CARD_TYPE_DINERS = 'DinersClub';
+    public const CARD_TYPE_JCB = 'JCB';
+    public const CARD_TYPE_MIR = 'Mir';
+    public const CARD_TYPE_NSPK_MIR = 'NSPK Mir';
+    public const CARD_TYPE_DANKORT = 'Dankort';
+
+    private const REGEX_CARD_TYPES = [
+        self::CARD_TYPE_NSPK_MIR => '/^676454/',
+        self::CARD_TYPE_ELECTRON => '/^(4026|417500|4405|4508|4844|4913|4917)/',
+        self::CARD_TYPE_INTER_PAYMENTS => '/^636/',
+        self::CARD_TYPE_UNION_PAY => '/^(62|88)/',
+        self::CARD_TYPE_DISCOVER => '/^6(?:011|4|5)/',
+        self::CARD_TYPE_MAESTRO => '/^(50|5[6-9]|6)/',
+        self::CARD_TYPE_DANKORT => '/^4571/',
+        self::CARD_TYPE_VISA => '/^4/',
+        self::CARD_TYPE_MASTER_CARD => '/^(5[1-5]|(?:222[1-9]|22[3-9][0-9]|2[3-6][0-9]{2}|27[01][0-9]|2720))/', // [2221-2720]
+        self::CARD_TYPE_AMERICAN_EXPRESS  => '/^3[47]/',
+        self::CARD_TYPE_DINERS => '/^3(?:0([0-5]|95)|[689])/',
+        self::CARD_TYPE_JCB => '/^(?:2131|1800|(?:352[89]|35[3-8][0-9]))/', // 3528-3589
+        self::CARD_TYPE_MIR => '/^220[0-4]/',
+    ];
+
+
+
+}

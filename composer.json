@@ -1,0 +1,21 @@
+{
+    "name": "kak/bank-info",
+    "description": "Spot search of the bank name by the first six card numbers.",
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+        "mustangostang/spyc": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "kak\\BankInfo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tutik Alexsandr",
+            "email": "sanchezzzhak@ya.ru"
+        }
+    ]
+}

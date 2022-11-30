@@ -1,0 +1,1705 @@
+1:
+  name: deutsche-bank-polska
+  country: pl
+  title: Deutsche Bank Polska
+  enTitle: Deutsche Bank Polska
+  url: https://www.deutschebank.pl/
+  color: '#00abdf'
+2:
+  name: ing-bsk
+  country: pl
+  title: ING Bank Slaski
+  enTitle: ING Bank Slaski
+  url: https://www.ingbank.pl/
+  color: '#ff6200'
+3:
+  name: raiffeisen-polbank
+  country: pl
+  title: Raiffeisen Polbank
+  enTitle: Raiffeisen Polbank
+  url: http://raiffeisenpolbank.com/
+  color: '#fff533'
+4:
+  name: millennium
+  country: pl
+  title: Bank Millennium
+  enTitle: Bank Millennium
+  url: https://www.bankmillennium.pl/
+  color: '#c82059'
+5:
+  name: wellsfargo
+  country: us
+  title: Wells Fargo
+  enTitle: Wells Fargo
+  url: https://www.wellsfargo.com/
+  color: '#a00000'
+6:
+  name: jpmorganchase
+  country: us
+  title: JPMorgan Chase
+  enTitle: JPMorgan Chase
+  url: https://www.jpmorganchase.com/
+  color: '#ececeb'
+7:
+  name: simple
+  country: us
+  title: Simple
+  enTitle: Simple
+  url: https://www.simple.com
+  color: '#007cd9'
+8:
+  name: americanexpress
+  country: us
+  title: American Express
+  enTitle: American Express
+  url: https://www.americanexpress.com
+  color: '#004fc5'
+9:
+  name: citibank
+  country: us
+  title: Citibank
+  enTitle: Citibank
+  url: https://online.citi.com/US/
+  color: '#0088cf'
+10:
+  name: bankofamerica
+  country: us
+  title: Bank of America
+  enTitle: Bank of America
+  url: https://www.bankofamerica.com/
+  color: '#d4001a'
+11:
+  name: capitalonebank
+  country: us
+  title: Capital One Bank
+  enTitle: Capital One Bank
+  url: https://www.capitalone.com/
+  color: '#004779'
+12:
+  name: payoneer
+  country: us
+  title: Payoneer
+  enTitle: Payoneer
+  url: https://www.payoneer.com/
+  color: '#ff4800'
+13:
+  name: usbank
+  country: us
+  title: US Bank
+  enTitle: US Bank
+  url: https://www.usbank.com/index.html
+  color: '#0c2074'
+14:
+  name: fifththird
+  country: us
+  title: Fifth Third Bank
+  enTitle: Fifth Third Bank
+  url: https://www.53.com/
+  color: '#254094'
+15:
+  name: hsbc
+  country: us
+  title: HSBC
+  enTitle: HSBC
+  url: https://www.us.hsbc.com/
+  color: '#dd1f26'
+16:
+  name: navyfederal
+  country: us
+  title: Navy Federal Credit Union
+  enTitle: Navy Federal Credit Union
+  url: https://www.navyfederal.org
+  color: '#0f4471'
+17:
+  name: ally
+  country: us
+  title: Ally
+  enTitle: Ally
+  url: https://www.ally.com
+  color: '#650360'
+18:
+  name: tdbank
+  country: us
+  title: TD Bank
+  enTitle: TD Bank
+  url: https://www.td.com/
+  color: '#35b233'
+19:
+  name: googlewallet
+  country: us
+  title: Google Wallet
+  enTitle: Google Wallet
+  url: https://wallet.google.com/
+  color: '#4285f4'
+20:
+  name: chase
+  country: us
+  title: Chase
+  enTitle: Chase
+  url: https://www.chase.com/
+  color: '#0f5ba7'
+21:
+  name: suntrust
+  country: us
+  title: SunTrust
+  enTitle: SunTrust
+  url: https://www.suntrust.com
+  color: '#ef7622'
+22:
+  name: metabank
+  country: us
+  title: Metabank
+  enTitle: Metabank
+  url: https://www.metabank.com/
+  color: '#004990'
+23:
+  name: barclays
+  country: us
+  title: Barclays
+  enTitle: Barclays
+  url: >
+    https://www.banking.barclaysus.com/index.html
+  color: '#28ace2'
+24:
+  name: diamant
+  country: ua
+  title: Діамантбанк
+  enTitle: Diamantbank
+  url: http://diamantbank.ua/
+  color: '#0a2855'
+25:
+  name: alfabank
+  country: ua
+  title: Альфа-Банк
+  enTitle: Alfa-Bank
+  url: https://alfabank.ua/
+  color: '#ed1c2a'
+26:
+  name: ukreximbank
+  country: ua
+  title: Укрэксимбанк
+  enTitle: Ukreximbank
+  url: https://www.eximb.com/
+  color: '#0067a6'
+27:
+  name: otp
+  country: ua
+  title: OTP Bank
+  enTitle: OTP Bank
+  url: https://www.otpbank.com.ua/
+  color: '#a3d044'
+28:
+  name: credit-agricole
+  country: ua
+  title: >
+    Креді Агріколь Банк
+    (Україна)
+  enTitle: Credit Agricole (Ukraine)
+  url: https://credit-agricole.ua/
+  color: '#258b92'
+29:
+  name: pumb
+  country: ua
+  title: >
+    ПУМБ (Перший
+    Український
+    Міжнародний Банк)
+  enTitle: >
+    FUIB (First Ukrainian International
+    Bank)
+  url: https://pumb.ua
+  color: '#d13239'
+30:
+  name: oschadbank
+  country: ua
+  title: Ощадбанк
+  enTitle: Oschadbank
+  url: http://www.oschadbank.ua/
+  color: '#06503c'
+31:
+  name: ukrsotsbank
+  country: ua
+  title: Укрсоцбанк
+  enTitle: Ukrsotsbank
+  url: https://ukrsotsbank.com/
+  color: '#a50931'
+32:
+  name: kredobank
+  country: ua
+  title: Кредобанк
+  enTitle: KredoBank
+  url: http://www.kredobank.com.ua/
+  color: '#275797'
+33:
+  name: procredit
+  country: ua
+  title: >
+    ПроКредит Банк
+    (Украина)
+  enTitle: ProCredit Bank (Ukraine)
+  url: http://procreditbank.com.ua/
+  color: '#da2027'
+34:
+  name: raiffeisen-aval
+  country: ua
+  title: Райффайзен Банк Аваль
+  enTitle: Raiffeisen Bank Aval
+  url: https://www.aval.ua/
+  color: '#fffb0b'
+35:
+  name: pravex
+  country: ua
+  title: ПРАВЕКС-БАНК
+  enTitle: PRAVEX-BANK
+  url: https://www.pravex.com.ua/
+  color: '#701616'
+36:
+  name: ukrsibbank
+  country: ua
+  title: УКРСИББАНК
+  enTitle: Ukrsibbank
+  url: https://ukrsibbank.com/
+  color: '#04703d'
+37:
+  name: privatbank
+  country: ua
+  title: ПриватБанк
+  enTitle: Privatbank
+  url: https://privatbank.ua/
+  color: '#498d2f'
+38:
+  name: ukrgasbank
+  country: ua
+  title: УКРГАЗБАНК
+  enTitle: Ukrgasbank
+  url: http://www.ukrgasbank.com/
+  color: '#005596'
+39:
+  name: unicreditbank
+  country: ua
+  title: ЮниКредит Банк
+  enTitle: UniCredit Bank
+  url: https://unicredit.ua/
+  color: '#e3001a'
+40:
+  name: belapb
+  country: by
+  title: Белагропромбанк
+  enTitle: Belagroprombank
+  url: http://www.belapb.by
+  color: '#fab606'
+41:
+  name: alfabank
+  country: by
+  title: Альфабанк
+  enTitle: Alfabank
+  url: https://www.alfabank.by/
+  color: '#ee3124'
+42:
+  name: homecredit
+  country: by
+  title: Хоум Кредит Банк
+  enTitle: Home Credit Bank
+  url: http://homecredit.by/
+  color: '#e03a3e'
+43:
+  name: bpssberbank
+  country: by
+  title: БПС-Сбербанк
+  enTitle: BPS-Sberbank
+  url: http://www.bps-sberbank.by/
+  color: '#1b991b'
+44:
+  name: belveb
+  country: by
+  title: Банк БелВЭБ
+  enTitle: BelVEB Bank
+  url: http://www.bveb.by/
+  color: '#f37637'
+45:
+  name: belswissbank
+  country: by
+  title: БелСвиссБанк
+  enTitle: BelSwiss
+  url: https://www.bsb.by/
+  color: '#ee1d23'
+46:
+  name: belinvestbank
+  country: by
+  title: Белинвестбанк
+  enTitle: Belinvestbank
+  url: http://www.belinvestbank.by/
+  color: '#009881'
+47:
+  name: absolutbank
+  country: by
+  title: Абсолютбанк
+  enTitle: Absolutbank
+  url: http://www.absolutbank.by
+  color: '#b72930'
+48:
+  name: mtb
+  country: by
+  title: МТБанк
+  enTitle: MTBank
+  url: http://www.mtbank.by
+  color: '#005aab'
+49:
+  name: belaruskynarodny
+  country: by
+  title: >
+    Белорусский народный
+    банк
+  enTitle: Beloruskii Narodny Bank
+  url: http://www.bnb.by
+  color: '#f89828'
+50:
+  name: priorbank
+  country: by
+  title: Приорбанк
+  enTitle: Priorbank
+  url: http://www.priorbank.by
+  color: '#ffff00'
+51:
+  name: paritetbank
+  country: by
+  title: Паритетбанк
+  enTitle: Paritetbank
+  url: http://www.paritetbank.by/
+  color: '#0360a7'
+52:
+  name: belarusbank
+  country: by
+  title: Беларусбанк
+  enTitle: Belarusbank
+  url: http://www.belarusbank.by
+  color: '#127d49'
+53:
+  name: moskvaminsk
+  country: by
+  title: Банк Москва-Минск
+  enTitle: Bank Moskva-Minsk
+  url: http://www.mmbank.by/
+  color: '#f2000d'
+54:
+  name: vtb
+  country: by
+  title: ВТБ (Беларусь)
+  enTitle: VTB (Belarus)
+  url: http://www.vtb-bank.by
+  color: '#002e77'
+55:
+  name: deltabank
+  country: by
+  title: Дельтабанк
+  enTitle: Delta Bank
+  url: http://deltabank.by/
+  color: '#d81e05'
+  defunct: true
+56:
+  name: trustbank
+  country: by
+  title: Трастбанк
+  enTitle: Trustbank
+  url: http://www.trustbank.by/
+  color: '#a81429'
+57:
+  name: belgazprom
+  country: by
+  title: Белгазпромбанк
+  enTitle: Belgazprombank
+  url: http://www.belgazprombank.by
+  color: '#0079c2'
+58:
+  name: amexbelgiumcorporate
+  country: be
+  title: American Express
+  enTitle: American Express
+  url: >
+    https://network.americanexpress.com/be/fr/homepage/landing.aspx
+  color: '#67b198'
+59:
+  name: ingbelgium
+  country: be
+  title: ING Belgium
+  enTitle: ING Belgium
+  url: https://www.ing.be/
+  color: '#ff6600'
+60:
+  name: belfius
+  country: be
+  title: Belfius Bank
+  enTitle: Belfius Bank
+  url: https://www.belfius.be
+  color: '#325c6c'
+61:
+  name: bnz
+  country: nz
+  title: Bank of New Zealand
+  enTitle: Bank of New Zealand
+  url: https://www.bnz.co.nz/
+  color: '#002f6b'
+62:
+  name: hekmatiranian
+  country: ir
+  title: بانک حکمت ایرانیان
+  enTitle: Hekmat Iranian Bank
+  url: http://www.hibank24.ir/
+  color: '#1d538d'
+63:
+  name: melli
+  country: ir
+  title: بانک ملی ایران
+  enTitle: Melli Bank
+  url: http://bmi.ir/
+  color: '#dc3c00'
+64:
+  name: pasargad
+  country: ir
+  title: بانک پاسارگاد
+  enTitle: Pasargad Bank
+  url: http://bpi.ir/
+  color: '#ffc41e'
+65:
+  name: melal
+  country: ir
+  title: مؤسسه اعتباری ملل
+  enTitle: Melal Credit Institution
+  url: https://bank-melal.ir/
+  color: '#f9bb08'
+66:
+  name: keshavarzi
+  country: ir
+  title: بانک کشاورزی
+  enTitle: Keshavarzi Bank
+  url: http://www.bki.ir/
+  color: '#005902'
+67:
+  name: mellat
+  country: ir
+  title: بانک ملت
+  enTitle: Mellat Bank
+  url: http://www.bankmellat.ir/
+  color: '#d81736'
+68:
+  name: mehreghtesad
+  country: ir
+  title: بانک مهر اقتصاد
+  enTitle: Mehr Eqtesad Bank
+  url: http://bank-maskan.ir/
+  color: '#00a651'
+69:
+  name: tejarat
+  country: ir
+  title: بانک تجارت
+  enTitle: Tejarat Bank
+  url: http://www.tejaratbank.ir/
+  color: '#2f4a98'
+70:
+  name: tosee
+  country: ir
+  title: مؤسسه اعتباری توسعه
+  enTitle: Tosee Credit Institution
+  url: http://www.cid.ir/
+  color: '#a41b1b'
+71:
+  name: central
+  country: ir
+  title: >
+    بانک مرکزی جمهوری
+    اسلامی ایران
+  enTitle: >
+    Central Bank of the Islamic Republic of
+    Iran
+  url: http://www.cbi.ir/
+  color: '#22304d'
+72:
+  name: industryandmine
+  country: ir
+  title: بانک صنعت و معدن
+  enTitle: Bank of Industry and Mine
+  url: http://www.bim.ir/
+  color: '#e7c07d'
+73:
+  name: ayandeh
+  country: ir
+  title: بانک آینده
+  enTitle: Ayandeh Bank
+  url: https://www.ba24.ir/
+  color: '#e1b466'
+74:
+  name: toseetaavon
+  country: ir
+  title: بانک توسعه تعاون
+  enTitle: "Tose'e Ta'avon Bank"
+  url: https://www.ttbank.ir/
+  color: '#50b5d1'
+75:
+  name: qarzolqasanehmehriran
+  country: ir
+  title: >
+    بانک قرض‌الحسنه مهر
+    ایرانیان
+  enTitle: Qarzol-Hasaneh Mehr Iran Bank
+  url: http://www.qmb.ir/
+  color: '#009738'
+76:
+  name: kosar
+  country: ir
+  title: مؤسسه اعتباری کوثر
+  enTitle: Kosar Financial and Credit Institution
+  url: http://www.kosarfci.ir/
+  color: '#802b68'
+77:
+  name: sarmayeh
+  country: ir
+  title: بانک سرمایه
+  enTitle: Sarmayeh Bank
+  url: http://www.sbank.ir/
+  color: '#000064'
+78:
+  name: exportdevelopment
+  country: ir
+  title: بانک توسعه صادرات
+  enTitle: Export Development Bank
+  url: https://www.edbi.ir/
+  color: '#006000'
+79:
+  name: shahr
+  country: ir
+  title: بانک شهر
+  enTitle: Shahr Bank
+  url: http://shahr-bank.ir/
+  color: '#ed1b24'
+80:
+  name: parsian
+  country: ir
+  title: بانک پارسیان
+  enTitle: Parsian Bank
+  url: http://www.parsian-bank.ir/
+  color: '#ffc41e'
+81:
+  name: maskan
+  country: ir
+  title: بانک مسکن
+  enTitle: Maskan Bank
+  url: http://bank-maskan.ir/
+  color: '#e84b0a'
+82:
+  name: eghtesadnovin
+  country: ir
+  title: بانک اقتصاد نوین
+  enTitle: Eghtesad Novin Bank
+  url: http://www.enbank.ir/
+  color: '#b42728'
+83:
+  name: ansar
+  country: ir
+  title: بانک انصار
+  enTitle: Ansar Bank
+  url: http://ansarbank.com/
+  color: '#b80710'
+84:
+  name: day
+  country: ir
+  title: بانک دی
+  enTitle: Day Bank
+  url: http://bank-day.org/
+  color: '#008b9a'
+85:
+  name: noor
+  country: ir
+  title: مؤسسه اعتباری نور
+  enTitle: Noor Credit Institution
+  url: https://noorbank.ir/
+  color: '#0bbbb9'
+86:
+  name: ghavamin
+  country: ir
+  title: بانک قوامین
+  enTitle: Ghavamin Bank
+  url: http://www.ghbi.ir/
+  color: '#00a652'
+87:
+  name: saman
+  country: ir
+  title: بانک سامان
+  enTitle: Saman Bank
+  url: https://www.sb24.com/
+  color: '#009ddc'
+88:
+  name: karafarin
+  country: ir
+  title: بانک کارآفرین
+  enTitle: Karafarin Bank
+  url: http://www.karafarinbank.ir/
+  color: '#1f764c'
+89:
+  name: sepah
+  country: ir
+  title: بانک سپه
+  enTitle: Sepah Bank
+  url: https://www.ebanksepah.ir/
+  color: '#e67a00'
+90:
+  name: iranzamin
+  country: ir
+  title: بانک ایران زمین
+  enTitle: Iran Zamin Bank
+  url: http://www.izbank.ir/
+  color: '#4c2a94'
+91:
+  name: sina
+  country: ir
+  title: بانک سینا
+  enTitle: Sina Bank
+  url: http://www.sinabank.ir/
+  color: '#07519a'
+92:
+  name: resalat
+  country: ir
+  title: بانک قرض الحسنه رسالت
+  enTitle: Resalat Gharzolhasaneh Bank
+  url: https://www.rqbank.ir/
+  color: '#0098a7'
+93:
+  name: saderat
+  country: ir
+  title: بانک صادرات
+  enTitle: Saderat Bank
+  url: http://bsi.ir/
+  color: '#005da2'
+94:
+  name: refah
+  country: ir
+  title: بانک رفاه
+  enTitle: Refah Bank
+  url: http://www.rb24.ir/
+  color: '#004b84'
+95:
+  name: tourism
+  country: ir
+  title: بانک گردشگری
+  enTitle: Tourism Bank
+  url: http://www.tourismbank.ir/
+  color: '#b11116'
+96:
+  name: middleeast
+  country: ir
+  title: بانک خاورمیانه
+  enTitle: Middle East Bank
+  url: https://www.middleeastbank.ir/
+  color: '#f39200'
+97:
+  name: post
+  country: ir
+  title: پست بانک
+  enTitle: Post Bank
+  url: https://ib.postbank.ir/
+  color: '#006600'
+98:
+  name: icbc
+  country: cn
+  title: 中国工商银行
+  enTitle: Industrial and Commercial Bank of China
+  url: http://www.icbc.com.cn
+  color: '#c90000'
+99:
+  name: citic
+  country: cn
+  title: 中信银行
+  enTitle: China Citic Bank
+  url: http://bank.ecitic.com/
+  color: '#c8151c'
+100:
+  name: boco
+  country: cn
+  title: 交通银行
+  enTitle: Bank of Communications
+  url: http://www.bankcomm.com
+  color: '#023978'
+101:
+  name: cmb
+  country: cn
+  title: 招商银行
+  enTitle: China Merchants Bank
+  url: http://www.cmbchina.com
+  color: '#b0110c'
+102:
+  name: spdb
+  country: cn
+  title: 浦东发展银行
+  enTitle: Shanghai Pudong Development Bank
+  url: http://www.spdb.com.cn
+  color: '#072154'
+103:
+  name: hxb
+  country: cn
+  title: 华夏银行
+  enTitle: Huaxia Bank
+  url: http://www.hxb.com.cn/
+  color: '#d80c18'
+104:
+  name: pab
+  country: cn
+  title: 平安银行
+  enTitle: Ping An Bank
+  url: http://bank.pingan.com/
+  color: '#e95303'
+105:
+  name: cib
+  country: cn
+  title: 兴业银行
+  enTitle: Industrial Bank Co. Ltd.
+  url: http://www.cib.com.cn/
+  color: '#004097'
+106:
+  name: ceb
+  country: cn
+  title: 中国光大银行
+  enTitle: China Everbright Bank
+  url: http://www.cebbank.cn/
+  color: '#691585'
+107:
+  name: cgb
+  country: cn
+  title: 中国银行
+  enTitle: China Guangfa Bank
+  url: http://www.cgbchina.com.cn/
+  color: '#e60021'
+108:
+  name: ccb
+  country: cn
+  title: 中国建设银行
+  enTitle: China Construction Bank
+  url: http://www.ccb.com/
+  color: '#0c69b0'
+109:
+  name: cmib
+  country: cn
+  title: 中国民生银行
+  enTitle: China Minsheng Bank
+  url: http://www.cmbc.com.cn/
+  color: '#0053b6'
+110:
+  name: abc
+  country: cn
+  title: 中国农业银行
+  enTitle: Agricultural Bank of China
+  url: http://www.abchina.com/
+  color: '#319c8b'
+111:
+  name: boc
+  country: cn
+  title: 中国银行
+  enTitle: Bank of China
+  url: http://www.boc.cn/
+  color: '#a71e32'
+112:
+  name: icici
+  country: in
+  title: ICICI
+  enTitle: ICICI
+  url: https://www.icicibank.com/
+  color: '#c01012'
+113:
+  name: hdfc
+  country: in
+  title: HDFC
+  enTitle: HDFC
+  url: https://www.hdfcbank.com/
+  color: '#004c8f'
+114:
+  name: sbi
+  country: in
+  title: SBI
+  enTitle: SBI
+  url: https://www.onlinesbi.com/
+  color: '#292075'
+115:
+  name: tangerine
+  country: ca
+  title: Tangerine
+  enTitle: Tangerine
+  url: https://www.tangerine.ca/
+  color: '#fa823c'
+116:
+  name: tdcanadatrust
+  country: ca
+  title: TD Canada Trust
+  enTitle: TD Canada Trust
+  url: https://www.tdcanadatrust.com
+  color: '#20b14a'
+117:
+  name: scotiabank
+  country: ca
+  title: Scotiabank
+  enTitle: Scotiabank
+  url: http://www.scotiabank.com/
+  color: '#d81e05'
+118:
+  name: fio-banka
+  country: cz
+  title: Fio banka
+  enTitle: Fio banka
+  url: https://www.fio.cz/
+  color: '#00458a'
+119:
+  name: airbank
+  country: cz
+  title: Airbank
+  enTitle: Airbank
+  url: https://airbank.cz
+  color: '#99cc33'
+120:
+  name: csob
+  country: cz
+  title: ČSOB
+  enTitle: ČSOB
+  url: https://www.csob.cz/
+  color: '#0099cc'
+121:
+  name: vtb24
+  country: ru
+  title: ВТБ 24
+  enTitle: VTB 24
+  url: http://www.vtb24.ru
+  color: '#00498f'
+122:
+  name: trust
+  country: ru
+  title: Траст
+  enTitle: Trust
+  url: http://www.trust.ru/
+  color: '#f8ab21'
+123:
+  name: uniastrumbank
+  country: ru
+  title: Юниаструм Банк
+  enTitle: Uniastrum Bank
+  url: https://www.uniastrum.ru
+  color: '#00718f'
+124:
+  name: mdm
+  country: ru
+  title: МДМ Банк
+  enTitle: MDM Bank
+  url: https://www.mdm.ru/
+  color: '#820729'
+125:
+  name: tinkoff
+  country: ru
+  title: Тинькофф Банк
+  enTitle: Tinkoff Bank
+  url: https://www.tinkoff.ru/
+  color: '#ffdd2d'
+126:
+  name: alfabank
+  country: ru
+  title: Альфа-Банк
+  enTitle: Alfa-Bank
+  url: https://alfabank.ru/
+  color: '#f22f17'
+127:
+  name: homecredit
+  country: ru
+  title: Хоум Кредит Банк
+  enTitle: Home Credit Bank
+  url: https://homecredit.ru
+  color: '#c7102e'
+128:
+  name: qiwi
+  country: ru
+  title: Киви
+  enTitle: QIWI
+  url: https://qiwi.ru
+  color: '#ff9f00'
+129:
+  name: sovcombank
+  country: ru
+  title: Совкомбанк
+  enTitle: Sovcombank
+  url: https://sovcombank.ru/
+  color: '#134c7c'
+130:
+  name: citibank
+  country: ru
+  title: Ситибанк
+  enTitle: Citibank
+  url: https://www.citibank.ru/
+  color: '#0088cf'
+131:
+  name: gazprombank
+  country: ru
+  title: Газпромбанк
+  enTitle: Gazprombank
+  url: http://gazprombank.ru/
+  color: '#00448b'
+132:
+  name: avangard
+  country: ru
+  title: Авангард
+  enTitle: Avangard
+  url: https://avangard.ru/
+  color: '#187543'
+133:
+  name: raiffeisen
+  country: ru
+  title: Райффайзенбанк
+  enTitle: Raiffeisenbank
+  url: http://www.raiffeisen.ru/
+  color: '#fff300'
+134:
+  name: promsvyazbank
+  country: ru
+  title: Промсвязьбанк
+  enTitle: Promsvyazbank
+  url: http://www.psbank.ru/
+  color: '#274193'
+135:
+  name: renaissance
+  country: ru
+  title: Ренессанс Капитал
+  enTitle: Renaissance Capital
+  url: http://www.rencap.ru/
+  color: '#343434'
+136:
+  name: vozrozhdenie
+  country: ru
+  title: Возрождение
+  enTitle: Vozrozhdenie
+  url: http://www.vbank.ru/
+  color: '#224f84'
+137:
+  name: rosevrobank
+  country: ru
+  title: РосЕвроБанк
+  enTitle: RosEvro Bank
+  url: http://www.rosevrobank.ru/
+  color: '#6c2870'
+138:
+  name: akbarsbank
+  country: ru
+  title: Ак Барс Банк
+  enTitle: Ak Bars Bank
+  url: https://www.akbars.ru/
+  color: '#019d3c'
+139:
+  name: yandex
+  country: ru
+  title: Яндекс.Деньги
+  enTitle: Yandex Money
+  url: https://money.yandex.ru/
+  color: '#000000'
+140:
+  name: siab
+  country: ru
+  title: СИАБ
+  enTitle: SIAB
+  url: https://siab.ru/
+  color: '#0f255c'
+141:
+  name: rocketbank
+  country: ru
+  title: Рокетбанк
+  enTitle: Rocketbank
+  url: https://rocketbank.ru/
+  color: '#fb8000'
+142:
+  name: rosbank
+  country: ru
+  title: Росбанк
+  enTitle: Rosbank
+  url: https://www.rosbank.ru/
+  color: '#e60028'
+143:
+  name: openbank
+  country: ru
+  title: Банк Открытие
+  enTitle: Bank Otkritie
+  url: https://open.ru
+  color: '#00b4e3'
+144:
+  name: uralsibbank
+  country: ru
+  title: УралСиб Банк
+  enTitle: UralSib Bank
+  url: https://www.bankuralsib.ru/
+  color: '#53b548'
+145:
+  name: unicreditbank
+  country: ru
+  title: ЮниКредит Банк
+  enTitle: UniCredit Bank
+  url: https://www.unicreditbank.ru/
+  color: '#e3001a'
+146:
+  name: rsb
+  country: ru
+  title: Банк Русский Стандарт
+  enTitle: Russian Standard Bank
+  url: https://www.rsb.ru/
+  color: '#930d2d'
+147:
+  name: sberbank
+  country: ru
+  title: Сбербанк
+  enTitle: Sberbank
+  url: https://www.sberbank.ru
+  color: '#309c0b'
+148:
+  name: vpb
+  country: ru
+  title: ВПБ
+  enTitle: VPB
+  url: https://www.vpb.ru
+  color: '#0071b9'
+149:
+  name: binbank
+  country: ru
+  title: Бинбанк
+  enTitle: 'B&N Bank'
+  url: https://www.binbank.ru/
+  color: '#0e3480'
+150:
+  name: anz
+  country: tw
+  title: 澳盛(台灣)商業銀行
+  enTitle: ANZ Bank (Taiwan)
+  url: http://www.anz.tw
+  color: '#003f67'
+151:
+  name: ctbcbank
+  country: tw
+  title: 中國信託商業銀行
+  enTitle: CTBC Bank
+  url: https://www.ctbcbank.com
+  color: '#007d7d'
+152:
+  name: citibank
+  country: tw
+  title: 花旗(台灣)銀行
+  enTitle: Citibank Taiwan
+  url: https://www.citibank.com.tw
+  color: '#0088cf'
+153:
+  name: scsb
+  country: tw
+  title: 上海商業儲蓄銀行
+  enTitle: 'he Shanghai Commercial & Savings Bank, Ltd. '
+  url: http://www.scsb.com.tw
+  color: '#c42607'
+154:
+  name: cathaybk
+  country: tw
+  title: 國泰世華商業銀行
+  enTitle: Cathay United Bank
+  url: https://www.cathaybk.com.tw
+  color: '#11a847'
+155:
+  name: hncb
+  country: tw
+  title: 華南銀行
+  enTitle: Hua Nan Bank
+  url: http://www.hncb.com.tw
+  color: '#ce1624'
+156:
+  name: esunbank
+  country: tw
+  title: 玉山銀行
+  enTitle: E.SUN Bank
+  url: https://www.esunbank.com.tw
+  color: '#009d99'
+157:
+  name: tcbbank
+  country: tw
+  title: 台中商業銀行
+  enTitle: Taichung Bank
+  url: https://www.tcbbank.com.tw
+  color: '#ce1624'
+158:
+  name: fubon
+  country: tw
+  title: 台北富邦銀行
+  enTitle: Taipei Fubon Bank
+  url: https://www.fubon.com
+  color: '#007c97'
+159:
+  name: societegeneralebanka
+  country: rs
+  title: Societe Generale Banka Srbija Ad Beograd
+  enTitle: Societe Generale Banka Srbija Ad Beograd
+  url: http://www.societegenerale.rs/
+  color: '#ed1a3a'
+160:
+  name: bpi
+  country: pt
+  title: Banco Português de Investimento (BPI)
+  enTitle: Portuguese Investment Bank
+  url: www.bancobpi.pt
+  color: '#ff8d00'
+161:
+  name: millenniumbcp
+  country: pt
+  title: Millennium BCP
+  enTitle: Millennium BCP
+  url: www.millenniumbcp.pt
+  color: '#e7046b'
+162:
+  name: capitec
+  country: za
+  title: Capitec
+  enTitle: Capitec
+  url: https://www.capitecbank.co.za//
+  color: '#daa520'
+163:
+  name: absa
+  country: za
+  title: Absa
+  enTitle: Absa
+  url: https://www.absa.co.za/
+  color: '#be0028'
+164:
+  name: virginmoney
+  country: za
+  title: Virgin Money South Africa
+  enTitle: Virgin Money South Africa
+  url: https://virginmoney.co.za/
+  color: '#cb2c22'
+165:
+  name: bidvest
+  country: za
+  title: Bidvest Bank
+  enTitle: Bidvest Bank
+  url: https://www.bidvestbank.co.za/
+  color: '#071752'
+166:
+  name: fnb
+  country: za
+  title: Eerste Nasionale Bank (ENB)
+  enTitle: First National Bank (South Africa)
+  url: https://www.fnb.co.za/
+  color: '#4aa8ab'
+167:
+  name: santander
+  country: uy
+  title: Santander
+  enTitle: Santander
+  url: http://www.santander.com.uy/
+  color: '#ff0000'
+168:
+  name: brou
+  country: uy
+  title: >
+    Banco de la República Oriental del
+    Uruguay
+  enTitle: Bank of the Oriental Republic of Uruguay
+  url: http://www.brou.com.uy/
+  color: '#024181'
+169:
+  name: revolut
+  country: gb
+  title: Revolut
+  enTitle: Revolut
+  url: https://revolut.com/
+  color: '#1574e2'
+170:
+  name: santander
+  country: gb
+  title: Santander UK plc
+  enTitle: Santander UK plc
+  url: http://www.santander.co.uk/
+  color: '#ec0000'
+171:
+  name: curve
+  country: gb
+  title: Curve
+  enTitle: Curve
+  url: https://www.imaginecurve.com
+  color: '#0f2d4f'
+172:
+  name: natwest
+  country: gb
+  title: NatWest
+  enTitle: NatWest
+  url: >
+    http://personal.natwest.com/personal.html
+  color: '#42145f'
+173:
+  name: nationwide
+  country: gb
+  title: Nationwide
+  enTitle: Nationwide
+  url: http://www.nationwide.co.uk
+  color: '#002878'
+174:
+  name: hsbc
+  country: gb
+  title: HSBC Bank plc
+  enTitle: HSBC Bank plc
+  url: https://www.hsbc.co.uk/
+  color: '#ee3226'
+175:
+  name: metrobank
+  country: gb
+  title: Metro Bank
+  enTitle: Metro Bank
+  url: https://www.metrobankonline.co.uk
+  color: '#013760'
+176:
+  name: lloydstsb
+  country: gb
+  title: Lloyds Bank plc
+  enTitle: Lloyds Bank plc
+  url: https://www.lloydsbank.com/
+  color: '#006a4d'
+177:
+  name: halifax
+  country: gb
+  title: Halifax
+  enTitle: Halifax
+  url: http://www.halifax.co.uk/
+  color: '#0040bb'
+178:
+  name: tsb
+  country: gb
+  title: TSB
+  enTitle: TSB
+  url: http://tsb.co.uk/
+  color: '#0098cf'
+179:
+  name: epayments
+  country: gb
+  title: ePayments
+  enTitle: ePayments
+  url: https://www.epayments.com/
+  color: '#000000'
+180:
+  name: monzo
+  country: gb
+  title: Monzo
+  enTitle: Monzo
+  url: https://monzo.com
+  color: '#f93845'
+181:
+  name: barclaycard
+  country: gb
+  title: Barclaycard
+  enTitle: Barclaycard
+  url: http://www.barclaycard.co.uk/
+  color: '#018fd0'
+182:
+  name: barclays
+  country: gb
+  title: Barclays Bank plc
+  enTitle: Barclays Bank plc
+  url: https://www.barclays.co.uk/
+  color: '#00adef'
+183:
+  name: soldo
+  country: gb
+  title: Soldo
+  enTitle: Soldo
+  url: https://www.soldo.com
+  color: '#fd8a43'
+184:
+  name: icbc
+  country: ar
+  title: ICBC
+  enTitle: ICBC
+  url: https://www.icbc.com.ar/
+  color: '#ffffff'
+185:
+  name: macro
+  country: ar
+  title: Banco Macro
+  enTitle: Macro Bank
+  url: https://www.macro.com.ar
+  color: '#0c75a5'
+186:
+  name: hsbc
+  country: ar
+  title: HSBC
+  enTitle: HSBC
+  url: https://www.hsbc.com.ar/es/
+  color: '#dd1f26'
+187:
+  name: wilobank
+  country: ar
+  title: Wilobank
+  enTitle: Wilobank
+  url: https://wilobank.com/
+  color: '#008fab'
+188:
+  name: santanderrio
+  country: ar
+  title: Santander Rio
+  enTitle: Santander Rio
+  url: http://santanderrio.com.ar/
+  color: '#ef3340'
+189:
+  name: galicia
+  country: ar
+  title: Banco Galicia/Naranja
+  enTitle: Galicia Bank / Naranja
+  url: http://www.bancogalicia.com/
+  color: '#ff6319'
+190:
+  name: demirbank
+  country: kg
+  title: >
+    Демир Кыргыз
+    Интернэшнл Банк
+  enTitle: DemirBank
+  url: http://demirbank.kg/
+  color: '#c21f1a'
+191:
+  name: cba
+  country: au
+  title: Commonwealth Bank of Australia
+  enTitle: Commonwealth Bank of Australia
+  url: https://www.commbank.com.au/
+  color: '#f3c40e'
+192:
+  name: lom
+  country: au
+  title: Lombard
+  enTitle: Lombard
+  url: https://www.lombardfinance.com.au/
+  color: '#002d55'
+193:
+  name: anz
+  country: au
+  title: ANZ
+  enTitle: ANZ
+  url: https://www.anz.com/
+  color: '#007dba'
+194:
+  name: go
+  country: au
+  title: GO
+  enTitle: GO
+  url: https://www.gomastercard.com.au/
+  color: '#486d11'
+195:
+  name: suncorp
+  country: au
+  title: Suncorp
+  enTitle: Suncorp
+  url: http://www.suncorp.com.au
+  color: '#006f66'
+196:
+  name: bwe
+  country: au
+  title: Bankwest
+  enTitle: Bankwest
+  url: http://www.bankwest.com.au/
+  color: '#f79534'
+197:
+  name: ing
+  country: au
+  title: ING Direct
+  enTitle: ING Direct
+  url: https://www.ingdirect.com.au/
+  color: '#ff6200'
+198:
+  name: bunq
+  country: nl
+  title: bunq
+  enTitle: bunq
+  url: https://bunq.com/
+  color: '#ffffff'
+199:
+  name: bcc
+  country: kz
+  title: Банк ЦентрКредит
+  enTitle: Bank CenterCredit
+  url: https://www.bcc.kz/
+  color: '#008047'
+200:
+  name: kazkom
+  country: kz
+  title: Казкоммерцбанк
+  enTitle: Kazkommertsbank
+  url: http://kkb.kz/
+  color: '#008fb4'
+201:
+  name: sberbank
+  country: kz
+  title: Сбербанк
+  enTitle: Sberbank
+  url: https://www.sberbank.kz
+  color: '#309c0b'
+202:
+  name: n26
+  country: de
+  title: N26
+  enTitle: N26
+  url: https://n26.com/
+  color: '#383838'
+203:
+  name: postbank
+  country: de
+  title: Postbank
+  enTitle: Postbank
+  url: https://www.postbank.de/
+  color: '#ffcc00'
+204:
+  name: jyskebank
+  country: dk
+  title: Jyske Bank
+  enTitle: Jyske Bank
+  url: https://www.jyskebank.dk/
+  color: '#005231'
+205:
+  name: nykredit
+  country: dk
+  title: Nykredit
+  enTitle: Nykredit
+  url: http://nykredit.dk/
+  color: '#10137c'
+206:
+  name: nordeafinland
+  country: fi
+  title: Nordea Pankki Suomi Oyj
+  enTitle: Nordea
+  url: http://www.nordea.fi/
+  color: '#055b90'
+207:
+  name: caisseepargne
+  country: fr
+  title: "Caisse d'Épargne"
+  enTitle: "Caisse d'Épargne"
+  url: https://www.caisse-epargne.fr/
+  color: '#e2001a'
+208:
+  name: ingdirect
+  country: fr
+  title: ING Direct
+  enTitle: ING Direct
+  url: http://www.ingdirect.fr/
+  color: '#ff6600'
+209:
+  name: fortuneo
+  country: fr
+  title: Fortuneo
+  enTitle: Fortuneo
+  url: https://www.fortuneo.fr/
+  color: '#88c648'
+210:
+  name: societe-generale
+  country: fr
+  title: Société Générale
+  enTitle: Societe Generale
+  url: http://societegenerale.fr/
+  color: '#e5022f'
+211:
+  name: lcl
+  country: fr
+  title: LCL
+  enTitle: LCL
+  url: https://particuliers.secure.lcl.fr/
+  color: '#263f92'
+212:
+  name: boursorama
+  country: fr
+  title: Boursorama
+  enTitle: Boursorama
+  url: http://www.boursorama.com/
+  color: '#d20073'
+213:
+  name: creditmutuel
+  country: fr
+  title: Credit Mutuel
+  enTitle: Credit Mutuel
+  url: https://www.creditmutuel.com/
+  color: '#11519b'
+214:
+  name: aib
+  country: ie
+  title: AIB Bank
+  enTitle: AIB Bank
+  url: https://aib.ie
+  color: '#7f2b7b'
+215:
+  name: bankofireland
+  country: ie
+  title: Bank Of Ireland
+  enTitle: Bank Of Ireland
+  url: https://www.bankofireland.com
+  color: '#013c5c'
+216:
+  name: hellenicbank
+  country: cy
+  title: Ελληνική Τράπεζα
+  enTitle: Hellenic Bank
+  url: https://www.hellenicbank.com/
+  color: '#003f7e'
+217:
+  name: teb
+  country: tr
+  title: Türk Ekonomi Bankası
+  enTitle: Türk Ekonomi Bankası
+  url: http://teb.com.tr/
+  color: '#4285f4'
+218:
+  name: bankasya
+  country: tr
+  title: Bank Asya
+  enTitle: Bank Asya
+  url: https://bankasya.com.tr/
+  color: '#4285f4'
+219:
+  name: hsbc
+  country: tr
+  title: HSBC
+  enTitle: HSBC
+  url: https://hsbc.com.tr/
+  color: '#4285f4'
+220:
+  name: akbank
+  country: tr
+  title: Akbank
+  enTitle: Akbank
+  url: https://akbank.com
+  color: '#4285f4'
+221:
+  name: ziraatbankasi
+  country: tr
+  title: Ziraat Bankası
+  enTitle: Ziraat Bankası
+  url: http://ziraatbank.com.tr
+  color: '#4285f4'
+222:
+  name: albaraka
+  country: tr
+  title: al Baraka
+  enTitle: al Baraka
+  url: https://albaraka.com.tr/
+  color: '#4285f4'
+223:
+  name: halkbank
+  country: tr
+  title: Halk Bankası
+  enTitle: Halk Bankası
+  url: https://halkbank.com.tr/
+  color: '#4285f4'
+224:
+  name: turkiyefinans
+  country: tr
+  title: Türkiye Finans
+  enTitle: Türkiye Finans
+  url: https://turkiyefinans.com.tr/
+  color: '#4285f4'
+225:
+  name: ininal
+  country: tr
+  title: ininal
+  enTitle: ininal
+  url: https://www.ininal.com
+  color: '#51504E'
+226:
+  name: denizbank
+  country: tr
+  title: Denizbank
+  enTitle: Denizbank
+  url: http://denizbank.com/
+  color: '#4285f4'
+227:
+  name: yapikredi
+  country: tr
+  title: Yapı ve Kredi Bankası
+  enTitle: Yapı ve Kredi Bankası
+  url: http://yapikredi.com.tr/
+  color: '#4285f4'
+228:
+  name: finansbank
+  country: tr
+  title: Finansbank
+  enTitle: Finansbank
+  url: https://finansbank.com.tr/
+  color: '#4285f4'
+229:
+  name: garanti
+  country: tr
+  title: Garanti Bankasi
+  enTitle: Garanti Bankasi
+  url: http://garanti.com.tr/
+  color: '#4285f4'
+230:
+  name: vakifbank
+  country: tr
+  title: Vakıf Bank
+  enTitle: Vakıf Bank
+  url: https://vakifbank.com.tr/
+  color: '#4285f4'
+231:
+  name: kuveytturk
+  country: tr
+  title: Kuveyt Türk
+  enTitle: Kuveyt Türk
+  url: https://kuveytturk.com.tr/
+  color: '#4285f4'
+232:
+  name: isbank
+  country: tr
+  title: Türkiye İş Bankası
+  enTitle: Türkiye İş Bankası
+  url: http://isbank.com.tr/
+  color: '#4285f4'
+233:
+  name: ingbank
+  country: tr
+  title: ING Bank
+  enTitle: ING Bank
+  url: https://ingbank.com.tr/
+  color: '#4285f4'
+234:
+  name: sekerbank
+  country: tr
+  title: Şeker Bank
+  enTitle: Seker Bank
+  url: http://sekerbank.com.tr/
+  color: '#4285f4'
+235:
+  name: bspb
+  country: ru
+  title: Банк «Санкт-Петербург»
+  enTitle: Bank «Sain-Petersburg»
+  url: https://bspb.ru/
+  color: '#050925'
+236:
+  name: vtb
+  country: ru
+  title: ВТБ
+  enTitle: VTB
+  url: http://www.vtb.ru
+  color: '#00498f'
+237:
+  name: 'nskbl'
+  country: ru
+  title: Банк Левобережный
+  enTitle: Bank Levoberezhny
+  url: http://nskbl.ru
+  color: '#00858A'
+238:
+  name: 'abr'
+  country: ru
+  title: Банк Россия
+  enTitle: Bank Rossiya
+  url: http://abr.ru
+  color: '#294250'
+239:
+  name: 'kubankredit'
+  country: ru
+  title: Банк Кубань Кредит
+  enTitle: Bank Kuban Credit
+  url: http://kk.bank
+  color: '#084E98'
+240:
+  name: 'kubank'
+  country: ru
+  title: Банк Кольцо Урала
+  enTitle: Bank Koltso Urala
+  url: http://www.kubank.ru
+  color: '#02A25F'
