@@ -36,8 +36,6 @@ created based on chekalsky/php-banks-db
   ]
   */
 ```
-##### Support detect brands list (1499):
-
 
 ##### List of card types (0):
 <details>

@@ -5,52 +5,6 @@ namespace kak\BankInfo;
 
 class BankInfo
 {
-
-    /**
-     * Получить информацию по ид банка, о банке
-     *
-     * @param int $id
-     * @return array
-     */
-    public static function getBankInfoById(string $id): array
-    {
-        static $banks;
-        if (null === $banks){
-            $banks = spyc_load_file(__DIR__ . '/database/banks.yml');
-        }
-
-        return $banks[$id] ?? [];
-    }
-
-    /**
-     * Получить информацию
-     *
-     * @param string $firstSixBin
-     * @param string $lastFourBin
-     * @return array
-     */
-    public static function getBinInfo(string $firstSixBin, string $lastFourBin = ''): array
-    {
-        static $prefixes;
-        if (null === $prefixes){
-            $prefixes = spyc_load_file(__DIR__ . '/database/prefixes.yml');
-        }
-        $cardType = '';
-        $firstSixBin = substr($firstSixBin, 0, 8);
-        foreach (self::REGEX_CARD_TYPES as $cardType => $regex) {
-            if (preg_match($regex, $firstSixBin)) {
-                break;
-            }
-        }
-
-        $bankId = $prefixes[$firstSixBin] ?? 0;
-        if ($bankId === 0 && $lastFourBin !== '') {
-            $bankId = $prefixes[sprintf('%s-%s', $firstSixBin, $lastFourBin)] ?? 0;
-        }
-
-        return array_merge(['cardType' => $cardType], self::getBankInfoById((string)$bankId));
-    }
-
     public const CARD_TYPE_INTER_PAYMENTS = 'InterPayments';
     public const CARD_TYPE_ELECTRON = 'Electron';
     public const CARD_TYPE_UNION_PAY = 'UnionPay';
@@ -81,6 +35,68 @@ class BankInfo
         self::CARD_TYPE_MIR => '/^220[0-4]/',
     ];
 
+    private static $banks;
+    private static $prefixes;
 
+    private static function init(): void
+    {
+        if (null === self::$banks){
+            self::$banks = spyc_load_file(__DIR__ . '/database/banks.yml');
+        }
+
+        if (null === self::$prefixes){
+            self::$prefixes = spyc_load_file(__DIR__ . '/database/prefixes.yml');
+        }
+    }
+
+    /**
+     * Get information on the $id, about the bank
+     *
+     * @param string $id
+     * @return array
+     */
+    public static function getBankInfoById(string $id): array
+    {
+        self::init();
+        return self::$banks[$id] ?? [];
+    }
+
+    /**
+     * search bin information
+     *
+     * @param string $firstSixBin
+     * @param string $lastFourBin
+     * @return array
+     */
+    public static function getBinInfo(string $firstSixBin, string $lastFourBin = ''): array
+    {
+        self::init();
+
+        $cardType = '';
+        $firstSixBin = substr($firstSixBin, 0, 8);
+
+        foreach (self::REGEX_CARD_TYPES as $cardType => $regex) {
+            if (preg_match($regex, $firstSixBin)) {
+                break;
+            }
+        }
+
+        $bankId = self::$prefixes[$firstSixBin] ?? 0;
+        if ($bankId === 0 && $lastFourBin !== '') {
+            $bankId = self::$prefixes[sprintf('%s-%s', $firstSixBin, $lastFourBin)] ?? 0;
+        }
+
+        return array_merge(['cardType' => $cardType], self::getBankInfoById((string)$bankId));
+    }
+
+    /**
+     * List of card types
+     *
+     * @return array
+     */
+    public static function getCardTypes(): array
+    {
+        return array_keys(self::REGEX_CARD_TYPES);
+    }
 
 }
