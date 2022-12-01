@@ -20,7 +20,7 @@ class BankInfo
     public const CARD_TYPE_DANKORT = 'Dankort';
 
     private const REGEX_CARD_TYPES = [
-        self::CARD_TYPE_NSPK_MIR => '/^676454|676907/',
+        self::CARD_TYPE_NSPK_MIR => '/^676454|676907|677384/',
         self::CARD_TYPE_ELECTRON => '/^(4026|417500|4405|4508|4844|4913|4917)/',
         self::CARD_TYPE_INTER_PAYMENTS => '/^636/',
         self::CARD_TYPE_UNION_PAY => '/^(62|88)/',

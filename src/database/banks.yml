@@ -1724,3 +1724,17 @@
   enTitle: 'Post Bank'
   url: https://www.pochtabank.ru/
   color: '#001689'
+244:
+  name: 'chelyabinvestbank'
+  country: ru
+  title: 'Челябинвестбанк'
+  enTitle: 'Chelyabinvestbank'
+  url: https://chelinvest.ru/
+  color: '#C4AE67'
+245:
+  name: 'smpbank'
+  country: ru
+  title: 'СМП Банк'
+  enTitle: 'SMP Bank'
+  url: https://smpbank.ru/
+  color: '#597CA2'
