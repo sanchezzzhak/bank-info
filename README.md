@@ -6,7 +6,7 @@ created based on chekalsky/php-banks-db
 ### Usage
 ```php
 
-  use \kak\BankInfo\BankInfo;
+  use kak\BankInfo\BankInfo;
 
   $result = BankInfo::getBinInfo(533669);
 

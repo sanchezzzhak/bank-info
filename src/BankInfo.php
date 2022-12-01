@@ -29,7 +29,7 @@ class BankInfo
         self::CARD_TYPE_DANKORT => '/^4571/',
         self::CARD_TYPE_VISA => '/^4/',
         self::CARD_TYPE_MASTER_CARD => '/^(5[1-5]|(?:222[1-9]|22[3-9][0-9]|2[3-6][0-9]{2}|27[01][0-9]|2720))/', // [2221-2720]
-        self::CARD_TYPE_AMERICAN_EXPRESS  => '/^3[47]/',
+        self::CARD_TYPE_AMERICAN_EXPRESS => '/^3[47]/',
         self::CARD_TYPE_DINERS => '/^3(?:0([0-5]|95)|[689])/',
         self::CARD_TYPE_JCB => '/^(?:2131|1800|(?:352[89]|35[3-8][0-9]))/', // 3528-3589
         self::CARD_TYPE_MIR => '/^220[0-4]/',
@@ -40,11 +40,11 @@ class BankInfo
 
     private static function init(): void
     {
-        if (null === self::$banks){
+        if (null === self::$banks) {
             self::$banks = spyc_load_file(__DIR__ . '/database/banks.yml');
         }
 
-        if (null === self::$prefixes){
+        if (null === self::$prefixes) {
             self::$prefixes = spyc_load_file(__DIR__ . '/database/prefixes.yml');
         }
     }
@@ -81,9 +81,9 @@ class BankInfo
             }
         }
 
-        $bankId = self::$prefixes[$firstSixBin] ?? 0;
-        if ($bankId === 0 && $lastFourBin !== '') {
-            $bankId = self::$prefixes[sprintf('%s-%s', $firstSixBin, $lastFourBin)] ?? 0;
+        $bankId = self::$prefixes[sprintf('%s-%s', $firstSixBin, $lastFourBin)] ?? 0;
+        if ($bankId === 0) {
+            $bankId = self::$prefixes[$firstSixBin] ?? 0;
         }
 
         return array_merge(['cardType' => $cardType], self::getBankInfoById((string)$bankId));
