@@ -1717,3 +1717,10 @@
   enTitle: 'Novikombank'
   url: https://novikom.ru/
   color: '#005191'
+243:
+  name: 'postbank'
+  country: ru
+  title: 'Почта Банк'
+  enTitle: 'Post Bank'
+  url: https://www.pochtabank.ru/
+  color: '#001689'
