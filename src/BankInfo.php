@@ -62,7 +62,7 @@ class BankInfo
     }
 
     /**
-     * search bin information
+     * Search information bank for bin numbers
      *
      * @param string $firstSixBin
      * @param string $lastFourBin
@@ -97,6 +97,28 @@ class BankInfo
     public static function getCardTypes(): array
     {
         return array_keys(self::REGEX_CARD_TYPES);
+    }
+
+    /**
+     * List of loaded prefixes from a'class
+     *
+     * @return array
+     */
+    public static function getPrefixes(): array
+    {
+        self::init();
+        return self::$prefixes ?? [];
+    }
+
+    /**
+     * List of loaded banks from a'class
+     *
+     * @return array
+     */
+    public static function getBanks(): array
+    {
+        self::init();
+        return self::$banks ?? [];
     }
 
 }
