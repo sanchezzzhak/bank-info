@@ -1738,3 +1738,10 @@
   enTitle: 'SMP Bank'
   url: https://smpbank.ru/
   color: '#597CA2'
+246:
+  name: 'mtsbank'
+  country: ru
+  title: 'МТС Банк'
+  enTitle: 'MTS Bank'
+  url: https://mtsbank.ru/
+  color: '#E30611'
