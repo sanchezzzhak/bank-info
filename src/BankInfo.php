@@ -19,6 +19,7 @@ class BankInfo
     public const CARD_TYPE_NSPK_MIR = 'NSPK Mir';
     public const CARD_TYPE_DANKORT = 'Dankort';
     public const CARD_TYPE_HUMO = 'Humo';
+    public const CARD_TYPE_BELCARD = 'BelCard';
 
     private const REGEX_CARD_TYPES = [
         self::CARD_TYPE_NSPK_MIR => '/^676454|676907|677384/',
@@ -35,6 +36,7 @@ class BankInfo
         self::CARD_TYPE_JCB => '/^(?:2131|1800|(?:352[89]|35[3-8][0-9]))/', // 3528-3589
         self::CARD_TYPE_MIR => '/^220[0-4]/',
         self::CARD_TYPE_HUMO => '/^(?:9860(?:03|1[09]))/',
+        self::CARD_TYPE_BELCARD => '/^9112/',
     ];
 
     private static $banks;
