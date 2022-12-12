@@ -1745,3 +1745,10 @@
   enTitle: 'MTS Bank'
   url: https://mtsbank.ru/
   color: '#E30611'
+247:
+  name: hsbc
+  country: ru
+  title: HSBC
+  enTitle: HSBC
+  url: https://www.hsbc.ru
+  color: '#dd1f26'
