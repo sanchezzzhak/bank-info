@@ -75,8 +75,9 @@ class BankInfo
         $cardType = '';
         $firstSixBin = substr($firstSixBin, 0, 8);
 
-        foreach (self::REGEX_CARD_TYPES as $cardType => $regex) {
+        foreach (self::REGEX_CARD_TYPES as $type => $regex) {
             if (preg_match($regex, $firstSixBin)) {
+                $cardType = $type;
                 break;
             }
         }
