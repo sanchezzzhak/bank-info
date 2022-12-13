@@ -1780,3 +1780,10 @@
   enTitle: Zheshang Bank
   url: https://www.czbank.com
   color: '#E60012'
+252:
+  name: rshb
+  country: ru
+  title: Россельхозбанк
+  enTitle: Russian Agricultural Bank
+  url: https://www.rshb.ru
+  color: '#E60012'
