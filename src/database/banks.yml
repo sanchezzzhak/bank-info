@@ -1752,3 +1752,10 @@
   enTitle: HSBC
   url: https://www.hsbc.ru
   color: '#dd1f26'
+248:
+  name: sdmbank
+  country: ru
+  title: СДМ Банк
+  enTitle: SDM Bank
+  url: https://sdm.ru
+  color: '#174882'
