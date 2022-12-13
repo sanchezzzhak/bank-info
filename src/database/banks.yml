@@ -1766,3 +1766,10 @@
   enTitle: Alexandrovskiy Bank
   url: https://abank.ru
   color: '#7A66A8'
+250:
+  name: round
+  country: ru
+  title: Раунд Банк
+  enTitle: Round Bank
+  url: https://round.ru
+  color: '#4B9B45'
