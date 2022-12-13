@@ -1787,3 +1787,25 @@
   enTitle: Russian Agricultural Bank
   url: https://www.rshb.ru
   color: '#145021'
+256:
+  # status bankruptcy 2021.01
+  name: ksbank
+  country: ru
+  title: КС Банк
+  enTitle: KS Bank
+  url: https://www.ks-bank.ru
+  color: '#ffffff'
+257:
+  name: zapsibcombank
+  country: ru
+  title: Запсибкомбанк
+  enTitle: Zapsibcombank
+  url: https://zapsibkombank.bm-bank.ru
+  color: '#C10A2B'
+258:
+  name: chelindbank
+  country: ru
+  title: Челиндбанк
+  enTitle: Chelindbank
+  url: https://chelindbank.ru
+  color: '#C10A2B'
