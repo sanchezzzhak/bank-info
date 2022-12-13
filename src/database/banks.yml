@@ -1816,3 +1816,10 @@
   enTitle: Expobank
   url: https://expobank.ru
   color: '#112b3c'
+260:
+  name: postepay
+  country: it
+  title: PostePay SpA
+  enTitle: PostePay SpA
+  url: https://poste.it
+  color: '#eedc00'
