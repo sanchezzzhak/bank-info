@@ -1808,4 +1808,11 @@
   title: Челиндбанк
   enTitle: Chelindbank
   url: https://chelindbank.ru
-  color: '#C10A2B'
+  color: '#001523'
+259:
+  name: expobank
+  country: ru
+  title: Экспобанк
+  enTitle: Expobank
+  url: https://expobank.ru
+  color: '#112b3c'
