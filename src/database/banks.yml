@@ -1759,3 +1759,10 @@
   enTitle: SDM Bank
   url: https://sdm.ru
   color: '#174882'
+249:
+  name: abank
+  country: ru
+  title: Александровский Банк
+  enTitle: Alexandrovskiy Bank
+  url: https://abank.ru
+  color: '#7A66A8'
