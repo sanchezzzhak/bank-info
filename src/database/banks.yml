@@ -1773,3 +1773,10 @@
   enTitle: Round Bank
   url: https://round.ru
   color: '#4B9B45'
+251:
+  name: czbank
+  country: cn
+  title: 浙商银行
+  enTitle: Zheshang Bank
+  url: https://www.czbank.com
+  color: '#E60012'
