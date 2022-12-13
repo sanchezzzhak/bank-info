@@ -987,9 +987,9 @@
 139:
   name: yandex
   country: ru
-  title: Яндекс.Деньги
-  enTitle: Yandex Money
-  url: https://money.yandex.ru/
+  title: ЮMoney
+  enTitle: YooMoney
+  url: https://yoomoney.ru/
   color: '#000000'
 140:
   name: siab
