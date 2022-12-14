@@ -1711,10 +1711,10 @@
   url: https://forabank.ru/
   color: '#ffffff'
 242:
-  name: 'novikombank'
+  name: novikombank
   country: ru
-  title: 'Новикомбанк'
-  enTitle: 'Novikombank'
+  title: Новикомбанк
+  enTitle: Novikombank
   url: https://novikom.ru/
   color: '#005191'
 243:
