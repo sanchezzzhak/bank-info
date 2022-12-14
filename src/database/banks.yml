@@ -1844,3 +1844,10 @@
   enTitle: Credit Bank of Moscow
   url: https://mkb.ru/en/
   color: '#bb0032'
+264:
+  name: santander
+  country: br
+  title: Santander
+  enTitle: Santander
+  url: https://www.santander.com.br/
+  color: '#ff0000'
