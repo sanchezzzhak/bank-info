@@ -1823,3 +1823,10 @@
   enTitle: PostePay SpA
   url: https://poste.it
   color: '#eedc00'
+261:
+  name: zenit
+  country: ru
+  title: Зенит
+  enTitle: Zenit
+  url: https://zenit.ru
+  color: '#007d8d'
