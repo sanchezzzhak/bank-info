@@ -1851,3 +1851,10 @@
   enTitle: Santander
   url: https://www.santander.com.br/
   color: '#ff0000'
+265:
+  name: ubrr
+  country: ru
+  title: Уральский банк реконструкции и развития
+  enTitle: Ural Bank for Reconstruction and Development
+  url: https://ubrr.ru/
+  color: '#cc163f'
