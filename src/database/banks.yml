@@ -1837,3 +1837,10 @@
   enTitle: Genbank
   url: https://genbank.ru
   color: '#19345C'
+263:
+  name: mkb
+  country: ru
+  title: Московский кредитный банк
+  enTitle: Credit Bank of Moscow
+  url: https://mkb.ru/en/
+  color: '#bb0032'
