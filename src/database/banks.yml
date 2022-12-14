@@ -1928,3 +1928,10 @@
   enTitle: Mashreqbank
   url: https://mashreqbank.com/
   color: '#e85339'
+276:
+  name: severgazbank
+  country: ru
+  title: Севергазбанк
+  enTitle: Severgazbank
+  url: https://severgazbank.ru/
+  color: '#1079bf'
