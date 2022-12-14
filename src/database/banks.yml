@@ -1886,3 +1886,10 @@
   enTitle: Akcept Bank
   url: https://akcept.ru
   color: '#1f4489'
+270:
+  name: forshtadt
+  country: ru
+  title: Форштадт Банк
+  enTitle: Forshtadt Bank
+  url: https://forshtadt.ru
+  color: '#920128'
