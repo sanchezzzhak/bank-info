@@ -1921,3 +1921,10 @@
   enTitle: Modulbank
   url: https://modulbank.ru/
   color: '#284cbc'
+275:
+  name: mashreqbank
+  country: ae
+  title: بنك المشرق
+  enTitle: Mashreqbank
+  url: https://mashreqbank.com/
+  color: '#e85339'
