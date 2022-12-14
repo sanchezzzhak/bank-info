@@ -1879,3 +1879,10 @@
   enTitle: Akibank
   url: https://akibank.ru
   color: '#003f76'
+269:
+  name: akcept
+  country: ru
+  title: Акцепт Банк
+  enTitle: Akcept Bank
+  url: https://akcept.ru
+  color: '#1f4489'
