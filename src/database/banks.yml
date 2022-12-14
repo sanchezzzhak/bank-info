@@ -1893,3 +1893,10 @@
   enTitle: Forshtadt Bank
   url: https://forshtadt.ru
   color: '#920128'
+271:
+  name: transkapitalbank
+  country: ru
+  title: Транскапиталбанк
+  enTitle: Transkapitalbank
+  url: http://www.tkbbank.ru/
+  color: '#00abaa'
