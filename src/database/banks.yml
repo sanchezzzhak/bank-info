@@ -1872,3 +1872,10 @@
   enTitle: Almazergienbank
   url: https://albank.ru
   color: '#2f88f0'
+268:
+  name: akibank
+  country: ru
+  title: Акибанк
+  enTitle: Akibank
+  url: https://akibank.ru
+  color: '#003f76'
