@@ -1907,3 +1907,10 @@
   enTitle: DongA Bank
   url: https://dongabank.com.vn/
   color: '#ff9900'
+273:
+  name: forte
+  country: vn
+  title: ForteBank
+  enTitle: ForteBank
+  url: https://forte.kz/
+  color: '#04a6bc'
