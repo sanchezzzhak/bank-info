@@ -1898,5 +1898,12 @@
   country: ru
   title: Транскапиталбанк
   enTitle: Transkapitalbank
-  url: http://www.tkbbank.ru/
+  url: https://www.tkbbank.ru/
   color: '#00abaa'
+272:
+  name: dongabank
+  country: vn
+  title: Đông Á Bank
+  enTitle: DongA Bank
+  url: https://dongabank.com.vn/
+  color: '#ff9900'
