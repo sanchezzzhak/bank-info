@@ -1909,8 +1909,15 @@
   color: '#ff9900'
 273:
   name: forte
-  country: vn
+  country: kz
   title: ForteBank
   enTitle: ForteBank
   url: https://forte.kz/
   color: '#04a6bc'
+274:
+  name: modulbank
+  country: ru
+  title: Модульбанк
+  enTitle: Modulbank
+  url: https://modulbank.ru/
+  color: '#284cbc'
