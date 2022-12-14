@@ -1865,3 +1865,10 @@
   enTitle: KEB Hana Bank
   url: https://kebhana.com
   color: '#009692'
+267:
+  name: albank
+  country: ru
+  title: Алмазэргиэнбанк
+  enTitle: Almazergienbank
+  url: https://albank.ru
+  color: '#2f88f0'
