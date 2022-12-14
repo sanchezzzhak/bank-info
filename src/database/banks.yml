@@ -1830,3 +1830,10 @@
   enTitle: Zenit
   url: https://zenit.ru
   color: '#007d8d'
+262:
+  name: genbank
+  country: ru
+  title: Генбанк
+  enTitle: Genbank
+  url: https://genbank.ru
+  color: '#19345C'
