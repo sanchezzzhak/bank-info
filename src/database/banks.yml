@@ -859,11 +859,11 @@
   url: https://www.csob.cz/
   color: '#0099cc'
 121:
-  name: vtb24
+  name: vtb
   country: ru
-  title: ВТБ 24
-  enTitle: VTB 24
-  url: http://www.vtb24.ru
+  title: ВТБ
+  enTitle: VTB
+  url: http://www.vtb.ru
   color: '#00498f'
 122:
   name: trust
@@ -1668,13 +1668,13 @@
   enTitle: Bank «Sain-Petersburg»
   url: https://bspb.ru/
   color: '#050925'
-236:
-  name: vtb
-  country: ru
-  title: ВТБ
-  enTitle: VTB
-  url: https://www.vtb.ru
-  color: '#00498f'
+#236:
+#  name: vtb
+#  country: ru
+#  title: ВТБ
+#  enTitle: VTB
+#  url: https://www.vtb.ru
+#  color: '#00498f'
 237:
   name: 'nskbl'
   country: ru
