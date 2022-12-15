@@ -1963,3 +1963,10 @@
   enTitle: Keystone Bank
   url: https://keystonebankng.com/
   color: '#0f3677'
+281:
+  name: avtogradbank
+  country: ru
+  title: Автоградбанк
+  enTitle: Avtogradbank
+  url: https://avtogradbank.ru/
+  color: '#007842'
