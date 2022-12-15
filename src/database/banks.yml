@@ -1664,17 +1664,10 @@
 235:
   name: bspb
   country: ru
-  title: Банк «Санкт-Петербург»
-  enTitle: Bank «Sain-Petersburg»
+  title: Банк Санкт-Петербург
+  enTitle: Bank Sain-Petersburg
   url: https://bspb.ru/
   color: '#050925'
-#236:
-#  name: vtb
-#  country: ru
-#  title: ВТБ
-#  enTitle: VTB
-#  url: https://www.vtb.ru
-#  color: '#00498f'
 237:
   name: 'nskbl'
   country: ru
