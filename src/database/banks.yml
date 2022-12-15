@@ -1970,3 +1970,10 @@
   enTitle: Avtogradbank
   url: https://avtogradbank.ru/
   color: '#007842'
+282:
+  name: kbb
+  country: ru
+  title: Кузнецкбизнесбанк
+  enTitle: Kuznetskbusinessbank
+  url: https://kbb.ru/
+  color: '#5165ac'
