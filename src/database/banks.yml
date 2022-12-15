@@ -1956,3 +1956,10 @@
   enTitle: XalqBank
   url: https://xalqbank.az/
   color: '#de3a42'
+280:
+  name: keystonebankng
+  country: ng
+  title: Keystone Bank
+  enTitle: Keystone Bank
+  url: https://keystonebankng.com/
+  color: '#0f3677'
