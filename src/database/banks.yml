@@ -1984,3 +1984,10 @@
   enTitle: Metallinvestbank
   url: https://metallinvestbank.ru
   color: '#2865AD'
+285:
+  name: bancaintesa
+  country: ru
+  title: Банк Интеза
+  enTitle: Banca Intesa
+  url: https://bancaintesa.ru
+  color: '#004274'
