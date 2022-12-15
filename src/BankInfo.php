@@ -34,7 +34,7 @@ class BankInfo
         self::CARD_TYPE_AMERICAN_EXPRESS => '/^3[47]/',
         self::CARD_TYPE_DINERS => '/^3(?:0([0-5]|95)|[689])/',
         self::CARD_TYPE_JCB => '/^(?:2131|1800|(?:352[89]|35[3-8][0-9]))/', // 3528-3589
-        self::CARD_TYPE_MIR => '/^220[0-4]/',
+        self::CARD_TYPE_MIR => '/^220(?:[0-4]|770)/',
         self::CARD_TYPE_HUMO => '/^(?:9860(?:03|1[09]))/',
         self::CARD_TYPE_BELCARD => '/^9112/',
     ];
