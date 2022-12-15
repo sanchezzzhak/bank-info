@@ -16,13 +16,15 @@ class BankInfo
     public const CARD_TYPE_DINERS = 'DinersClub';
     public const CARD_TYPE_JCB = 'JCB';
     public const CARD_TYPE_MIR = 'Mir';
-    public const CARD_TYPE_NSPK_MIR = 'NSPK Mir';
+    public const CARD_TYPE_NSPK_MIR = 'NSPK Mir';     # combined cards Mir + UnionPay
     public const CARD_TYPE_DANKORT = 'Dankort';
-    public const CARD_TYPE_HUMO = 'Humo';
-    public const CARD_TYPE_BELCARD = 'BelCard';
+    public const CARD_TYPE_HUMO = 'Humo';             # payment system in Uzbekistan
+    public const CARD_TYPE_UZCARD = 'UzCard';         # payment system in Uzbekistan
+    public const CARD_TYPE_BELCARD = 'BelCard';       # payment system in Belarus
 
     private const REGEX_CARD_TYPES = [
-        self::CARD_TYPE_NSPK_MIR => '/^676454|676907|677384/',
+        self::CARD_TYPE_NSPK_MIR => '/^(676454|676907|677384|623446)/',
+        self::CARD_TYPE_UZCARD => '/^(860012)/',
         self::CARD_TYPE_ELECTRON => '/^(4026|417500|4405|4508|4844|4913|4917)/',
         self::CARD_TYPE_INTER_PAYMENTS => '/^636/',
         self::CARD_TYPE_UNION_PAY => '/^(62|88)/',
