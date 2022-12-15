@@ -1984,3 +1984,10 @@
   enTitle: Databank
   url: https://databank.ru
   color: '#00247D'
+284:
+  name: metallinvestbank
+  country: ru
+  title: Металлинвестбанк
+  enTitle: Metallinvestbank
+  url: https://metallinvestbank.ru
+  color: '#2865AD'
