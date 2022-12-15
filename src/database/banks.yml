@@ -1949,3 +1949,10 @@
   enTitle: Coalmetbank
   url: https://coalmetbank.ru/
   color: '#179659'
+279:
+  name: xalqbank
+  country: az
+  title: XalqBank
+  enTitle: XalqBank
+  url: https://xalqbank.az/
+  color: '#de3a42'
