@@ -1977,3 +1977,10 @@
   enTitle: Kuznetskbusinessbank
   url: https://kbb.ru/
   color: '#5165ac'
+283:
+  name: databank
+  country: ru
+  title: Датабанк
+  enTitle: Databank
+  url: https://databank.ru
+  color: '#00247D'
