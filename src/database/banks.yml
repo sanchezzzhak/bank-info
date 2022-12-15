@@ -1942,3 +1942,10 @@
   enTitle: Jusan Bank
   url: https://jusan.kz/
   color: '#f95200'
+278:
+  name: coalmetbank
+  country: ru
+  title: Углеметбанк
+  enTitle: Coalmetbank
+  url: https://coalmetbank.ru/
+  color: '#179659'
