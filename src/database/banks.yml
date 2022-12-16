@@ -1998,3 +1998,10 @@
   enTitle: InBank
   url: https://in-bank.ru
   color: '#106e53'
+287:
+  name: energotransbank
+  country: ru
+  title: Энерготрансбанк
+  enTitle: Energotransbank
+  url: https://energotransbank.com
+  color: '#8f2d25'
