@@ -1991,3 +1991,10 @@
   enTitle: Banca Intesa
   url: https://bancaintesa.ru
   color: '#004274'
+286:
+  name: inbank
+  country: ru
+  title: ИнБанк
+  enTitle: InBank
+  url: https://in-bank.ru
+  color: '#106e53'
