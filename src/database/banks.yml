@@ -2019,3 +2019,10 @@
   enTitle: DOM.RF Bank
   url: http://www.domrfbank.ru
   color: '#1e2321'
+290:
+  name: sngb
+  country: ru
+  title: Сургутнефтегазбанк
+  enTitle: Surgutneftegasbank
+  url: http://www.sngb.ru
+  color: '#004182'
