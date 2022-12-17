@@ -2005,3 +2005,10 @@
   enTitle: Energotransbank
   url: https://energotransbank.com
   color: '#8f2d25'
+288:
+  name: santander
+  country: pl
+  title: Santander
+  enTitle: Santander
+  url: http://www.santander.pl
+  color: '#ff0000'
