@@ -2012,3 +2012,10 @@
   enTitle: Santander
   url: http://www.santander.pl
   color: '#ff0000'
+289:
+  name: domrfbank
+  country: ru
+  title: Банк ДОМ.РФ
+  enTitle: DOM.RF Bank
+  url: http://www.domrfbank.ru
+  color: '#ff0000'
