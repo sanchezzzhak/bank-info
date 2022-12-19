@@ -2010,19 +2010,26 @@
   country: pl
   title: Santander
   enTitle: Santander
-  url: http://www.santander.pl
+  url: https://www.santander.pl
   color: '#ff0000'
 289:
   name: domrfbank
   country: ru
   title: Банк ДОМ.РФ
   enTitle: DOM.RF Bank
-  url: http://www.domrfbank.ru
+  url: https://www.domrfbank.ru
   color: '#1e2321'
 290:
   name: sngb
   country: ru
   title: Сургутнефтегазбанк
   enTitle: Surgutneftegasbank
-  url: http://www.sngb.ru
+  url: https://www.sngb.ru
   color: '#004182'
+291:
+  name: eurasianbank
+  country: kz
+  title: Eurasian Bank
+  enTitle: Eurasian Bank
+  url: https://eubank.kz
+  color: '#E1056D'
