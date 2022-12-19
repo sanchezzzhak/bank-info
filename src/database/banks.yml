@@ -2054,3 +2054,10 @@
   enTitle: Halyk Bank
   url: https://halykbank.kz
   color: '#006D58'
+295:
+  name: unistream
+  country: ru
+  title: Юнистрим
+  enTitle: Unistream
+  url: https://unistream.ru
+  color: '#104076'
