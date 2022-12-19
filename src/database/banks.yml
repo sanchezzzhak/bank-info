@@ -2040,3 +2040,10 @@
   enTitle: Russian Regional Development Bank
   url: https://www.vbrr.ru
   color: '#064287'
+293:
+  name: absolutbank
+  country: ru
+  title: Абсолютбанк
+  enTitle: Absolutbank
+  url: http://www.absolutbank.ru
+  color: '#b72930'
