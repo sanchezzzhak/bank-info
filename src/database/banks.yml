@@ -2033,3 +2033,10 @@
   enTitle: Eurasian Bank
   url: https://eubank.kz
   color: '#E1056D'
+292:
+  name: vbrr
+  country: ru
+  title: Всероссийсикйи банк развития регионов
+  enTitle: Russian Regional Development Bank
+  url: https://www.vbrr.ru
+  color: '#064287'
