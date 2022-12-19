@@ -2045,5 +2045,12 @@
   country: ru
   title: Абсолютбанк
   enTitle: Absolutbank
-  url: http://www.absolutbank.ru
+  url: https://www.absolutbank.ru
   color: '#b72930'
+294:
+  name: halykbank
+  country: kz
+  title: Halyk Bank
+  enTitle: Halyk Bank
+  url: https://halykbank.kz
+  color: '#006D58'
