@@ -69,4 +69,6 @@ Minimum dependencies:
 [MIT](LICENSE)
 
 #### Contribute development
-Open the issue for the added new bank or make changes to existing data or create new entity data, via pr.
+Open the issue for the added new bank or make changes to existing data or create new entity data, via pr. (⚠ Do not leave full card details, only the first 5-6 chars. in some countries, first 6 chars and last 4 chars are allowed)
+
+In case your bank card ot detected, please check if your bank already in our [fixtures banks.yml](src/database/banks.yml).
