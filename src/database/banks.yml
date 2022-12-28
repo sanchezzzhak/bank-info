@@ -2075,3 +2075,10 @@
   enTitle: Kaspi Bank
   url: https://kaspi.kz/
   color: '#EF4836'
+298:
+  name: 'hamkorbank'
+  country: uz
+  title: Hamkorbank
+  enTitle: Hamkorbank
+  url: https://hamkorbank.uz/
+  color: '#33B400'
