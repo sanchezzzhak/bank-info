@@ -2089,3 +2089,10 @@
   enTitle: Amonatbank
   url: https://amonatbonk.tj/
   color: '#3F986F'
+300:
+  name: rosgosstrakh
+  country: ru
+  title: Росгосстрах
+  enTitle: Rosgosstrakh
+  url: https://rgs.ru/
+  color: '#990032'
