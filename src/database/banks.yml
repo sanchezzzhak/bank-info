@@ -2076,9 +2076,16 @@
   url: https://kaspi.kz/
   color: '#EF4836'
 298:
-  name: 'hamkorbank'
+  name: hamkorbank
   country: uz
   title: Hamkorbank
   enTitle: Hamkorbank
   url: https://hamkorbank.uz/
   color: '#33B400'
+299:
+  name: amonatbonk
+  country: tj
+  title: Amonatbonk
+  enTitle: Amonatbank
+  url: https://amonatbonk.tj/
+  color: '#3F986F'
