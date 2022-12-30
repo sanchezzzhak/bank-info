@@ -2103,3 +2103,10 @@
   enTitle: Renaissance Credit
   url: https://rencredit.ru/
   color: '#DF307C'
+302:
+  name: norvik
+  country: ru
+  title: Норвик Банк
+  enTitle: Norvik Bank
+  url: https://norvikbank.ru/
+  color: '#0E152D'
