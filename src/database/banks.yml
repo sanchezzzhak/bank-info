@@ -2096,3 +2096,10 @@
   enTitle: Rosgosstrakh
   url: https://rgs.ru/
   color: '#990032'
+301:
+  name: rencredit
+  country: ru
+  title: Ренессанс Кредит
+  enTitle: Renaissance Credit
+  url: https://rencredit.ru/
+  color: '#DF307C'
