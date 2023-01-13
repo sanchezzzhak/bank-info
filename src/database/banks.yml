@@ -2110,3 +2110,10 @@
   enTitle: Norvik Bank
   url: https://norvikbank.ru/
   color: '#0E152D'
+303:
+  name: emb
+  country: ru
+  title: Банк Екатеринбург
+  enTitle: Ekaterinburg Bank
+  url: https://emb.ru/
+  color: '#0E923C'
