@@ -2124,3 +2124,10 @@
   enTitle: Eniseisk United Bank
   url: https://www.united.ru/
   color: '#FCB205'
+305:
+  name: kamchatprofitbank
+  country: ru
+  title: Камчатпрофитбанк
+  enTitle: Kamchatprofitbank
+  url: https://profitbank.ru/
+  color: '#000044'
