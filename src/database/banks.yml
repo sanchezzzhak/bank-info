@@ -2138,3 +2138,10 @@
   enTitle: Agropromcredit
   url: https://apkbank.ru/
   color: '#FE720A'
+307:
+  name: solidarnost
+  country: ru
+  title: Банк Солидарность
+  enTitle: Bank Solidarnost
+  url: https://solid.ru/
+  color: '#DB0334'
