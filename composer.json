@@ -6,12 +6,16 @@
         "php": ">=7.1",
         "mustangostang/spyc": "*"
     },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5.8"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
             "kak\\BankInfo\\": "src/",
-            "exclude-from-classmap": ["tests/"]
-        }
+            "kak\\BankInfo\\tests\\": "tests/"
+        },
+        "exclude-from-classmap": ["tests/"]
     },
     "authors": [
         {

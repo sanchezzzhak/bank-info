@@ -20,7 +20,7 @@ Minimum dependencies:
 
   use kak\BankInfo\BankInfo;
 
-  $result = BankInfo::getBinInfo(533669);
+  $result = BankInfo::getBinInfo('533669');
 
   /*
   result
@@ -35,7 +35,7 @@ Minimum dependencies:
   ]
   */
   
-  $result = BankInfo::getBinInfo(558823);
+  $result = BankInfo::getBinInfo('558823');
   /*
   ^ array:7 [
     "cardType" => "MasterCard"
