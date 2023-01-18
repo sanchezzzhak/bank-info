@@ -2117,3 +2117,10 @@
   enTitle: Ekaterinburg Bank
   url: https://emb.ru/
   color: '#0E923C'
+304:
+  name: unitedru
+  country: ru
+  title: Енисейский объединенный банк
+  enTitle: Eniseisk United Bank
+  url: https://www.united.ru/
+  color: '#FCB205'
