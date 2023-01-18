@@ -9,7 +9,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "kak\\BankInfo\\": "src/"
+            "kak\\BankInfo\\": "src/",
+            "exclude-from-classmap": ["tests/"]
         }
     },
     "authors": [
