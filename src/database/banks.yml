@@ -2131,3 +2131,10 @@
   enTitle: Kamchatprofitbank
   url: https://profitbank.ru/
   color: '#000044'
+306:
+  name: apkbank
+  country: ru
+  title: Агропромкредит
+  enTitle: Agropromcredit
+  url: https://apkbank.ru/
+  color: '#FE720A'
