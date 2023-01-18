@@ -21,6 +21,7 @@ class BankInfo
     public const CARD_TYPE_HUMO = 'Humo';             # payment system in Uzbekistan
     public const CARD_TYPE_UZCARD = 'UzCard';         # payment system in Uzbekistan
     public const CARD_TYPE_BELCARD = 'BelCard';       # payment system in Belarus
+    public const CARD_TYPE_HIPERCARD = 'Hipercard';
 
     private const REGEX_CARD_TYPES = [
         self::CARD_TYPE_NSPK_MIR => '/^(676454|676907|677384|623446)/',
@@ -39,6 +40,7 @@ class BankInfo
         self::CARD_TYPE_MIR => '/^220(?:[0-4]|770)/',
         self::CARD_TYPE_HUMO => '/^(?:9860(?:03|1[09]))/',
         self::CARD_TYPE_BELCARD => '/^9112/',
+        self::CARD_TYPE_HIPERCARD => '/^606282/',
     ];
 
     private static $banks;
