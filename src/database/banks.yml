@@ -2145,3 +2145,10 @@
   enTitle: Bank Solidarnost
   url: https://solid.ru/
   color: '#DB0334'
+308:
+  name: interprogressbank
+  country: ru
+  title: Интерпрогрессбанк
+  enTitle: Interprogressbank
+  url: https://ipb.ru/
+  color: '#F37323'
