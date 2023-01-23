@@ -110,8 +110,9 @@ class BankInfo
 
     /**
      * List of loaded prefixes from a'class
-     *
-     * @return array
+     * @return array = [
+     *     0 => 0
+     * ]
      */
     public static function getPrefixes(): array
     {
@@ -121,8 +122,16 @@ class BankInfo
 
     /**
      * List of loaded banks from a'class
-     *
-     * @return array
+     * @return array = [
+     *     0 => [
+     *        'name' => 'string',
+     *        'country' => 'string',
+     *        'title'=> 'string',
+     *        'enTitle' => 'string',
+     *        'url' => 'string',
+     *        'color' => 'string',
+     *     ],
+     * ]
      */
     public static function getBanks(): array
     {
