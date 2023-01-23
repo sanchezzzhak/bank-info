@@ -2152,3 +2152,10 @@
   enTitle: Interprogressbank
   url: https://ipb.ru/
   color: '#F37323'
+309:
+  name: tatsotsbank
+  country: ru
+  title: ТАТСОЦБАНК
+  enTitle: TATSOTSBANK
+  url: https://tatsotsbank.ru/
+  color: '#F76915'
