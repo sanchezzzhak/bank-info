@@ -1718,10 +1718,10 @@
   url: https://www.pochtabank.ru/
   color: '#001689'
 244:
-  name: 'chelyabinvestbank'
+  name: chelyabinvestbank
   country: ru
-  title: 'Челябинвестбанк'
-  enTitle: 'Chelyabinvestbank'
+  title: Челябинвестбанк
+  enTitle: Chelyabinvestbank
   url: https://chelinvest.ru/
   color: '#C4AE67'
 245:
