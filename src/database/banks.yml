@@ -2166,3 +2166,10 @@
   enTitle: Center-Invest Bank
   url: https://centrinvest.ru/
   color: '#50B848'
+311:
+  name: rnkb
+  country: ru
+  title: РНКБ Банк
+  enTitle: RNKB Bank
+  url: https://www.rncb.ru/
+  color: '#00AEC7'
