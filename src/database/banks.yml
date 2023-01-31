@@ -2159,3 +2159,10 @@
   enTitle: TATSOTSBANK
   url: https://tatsotsbank.ru/
   color: '#F76915'
+310:
+  name: centrinvest
+  country: ru
+  title: Банк Центр-Инвест
+  enTitle: Center-Invest Bank
+  url: https://centrinvest.ru/
+  color: '#50B848'
