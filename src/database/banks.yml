@@ -2180,3 +2180,10 @@
     enTitle: OTP Bank
     url: https://otpbank.ru/
     color: '#6EC72D'
+313:
+    name: kazpost
+    country: ru
+    title: КазПочта
+    enTitle: KazPost Bank
+    url: https://post.kz/
+    color: '#0043C4'
