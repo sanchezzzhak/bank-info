@@ -2173,3 +2173,10 @@
   enTitle: RNKB Bank
   url: https://www.rncb.ru/
   color: '#00AEC7'
+312:
+    name: otpbank
+    country: ru
+    title: OTP Bank
+    enTitle: OTP Bank
+    url: https://otpbank.ru/
+    color: '#6EC72D'
