@@ -1683,14 +1683,14 @@
   url: https://abr.ru
   color: '#294250'
 239:
-  name: 'kubankredit'
+  name: kubankredit
   country: ru
   title: Банк Кубань Кредит
   enTitle: Bank Kuban Credit
   url: https://kk.bank
   color: '#084E98'
 240:
-  name: 'kubank'
+  name: kubank
   country: ru
   title: Банк Кольцо Урала
   enTitle: Bank Koltso Urala
