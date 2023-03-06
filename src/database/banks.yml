@@ -2187,3 +2187,10 @@
     enTitle: KazPost Bank
     url: https://post.kz/
     color: '#0043C4'
+314:
+    name: bankrbk
+    country: kz
+    title: Bank RBK
+    enTitle: Bank RBK
+    url: https://www.bankrbk.kz/
+    color: '##FDBB01'
