@@ -2215,3 +2215,10 @@
     enTitle: Примсоцбанк
     url: https://pskb.ru/
     color: '#428A37'
+318:
+    name: rnko
+    country: ru
+    title: RNKO
+    enTitle: RNKO
+    url: https://rnko.ru/
+    color: '#545857'
