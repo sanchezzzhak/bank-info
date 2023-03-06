@@ -2222,3 +2222,10 @@
     enTitle: RNKO
     url: https://rnko.ru/
     color: '#545857'
+319:
+    name: rogers
+    country: ca
+    title: Rogers Bank
+    enTitle: Rogers Bank
+    url: https://www.rogersbank.com/
+    color: '#DA291C'
