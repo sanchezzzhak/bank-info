@@ -2193,4 +2193,11 @@
     title: Bank RBK
     enTitle: Bank RBK
     url: https://www.bankrbk.kz/
-    color: '##FDBB01'
+    color: '#FDBB01'
+315:
+    name: avers
+    country: ru
+    title: Банк Аверс
+    enTitle: Bank Avers
+    url: https://aversbank.ru/
+    color: '#216B36'
