@@ -2208,3 +2208,10 @@
     enTitle: МОСОБЛБАНК
     url: https://mosoblbank.ru/
     color: '#D10E14'
+317:
+    name: primsotsbank
+    country: ru
+    title: Primsotsbank
+    enTitle: Примсоцбанк
+    url: https://pskb.ru/
+    color: '#428A37'
