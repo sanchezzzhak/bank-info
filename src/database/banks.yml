@@ -2201,3 +2201,10 @@
     enTitle: Bank Avers
     url: https://aversbank.ru/
     color: '#216B36'
+316:
+    name: mosoblbank
+    country: ru
+    title: MOSOBLBANK
+    enTitle: МОСОБЛБАНК
+    url: https://mosoblbank.ru/
+    color: '#D10E14'
