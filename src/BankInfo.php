@@ -5,6 +5,13 @@ namespace kak\BankInfo;
 
 class BankInfo
 {
+    public const
+        COUNTRY_RU = 'ru',  // Russia
+        COUNTRY_BL = 'bl',  // Belarus
+        COUNTRY_UA = 'ua',  // Ukraina
+        COUNTRY_CN = 'cn',  // China
+        COUNTRY_KZ = 'kz';  // kazakhstan
+
     public const CARD_TYPE_INTER_PAYMENTS = 'InterPayments';
     public const CARD_TYPE_ELECTRON = 'Electron';
     public const CARD_TYPE_UNION_PAY = 'UnionPay';
@@ -137,6 +144,25 @@ class BankInfo
     {
         self::init();
         return self::$banks ?? [];
+    }
+
+    public static function search($name, $country = 'ru'): array
+    {
+        foreach (self::getBanks() as $bank) {
+            if ($country !== $bank['country']) {
+                continue;
+            }
+            if (preg_match(sprintf('~%s~i', implode('|', [
+                $bank['name'],
+                $bank['title'],
+                $bank['enTitle'],
+                str_replace(['https://'], '', trim($bank['url'], '/'))
+            ])), $name)) {
+                return $bank;
+            }
+        }
+
+        return [];
     }
 
 }

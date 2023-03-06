@@ -16,6 +16,8 @@ Minimum dependencies:
 
 
 ### Usage
+
+Find by bin number
 ```php
 
   use kak\BankInfo\BankInfo;
@@ -47,6 +49,23 @@ Minimum dependencies:
     "color" => "#0f5ba7"
   ]
   */
+```
+Find By name
+```php
+    use kak\BankInfo\BankInfo;
+    $name = 'JOINT STOCK COMPANY ALFA-BANK';
+    $result = BankInfo::search($name, BankInfo::COUNTRY_RU);
+    /*
+    ^ array:7 [
+      "name" => "alfabank"
+      "country" => "ru"
+      "title" => "Альфа-Банк"
+      "enTitle" => "Alfa-Bank"
+      "url" => "https://alfabank.ru/"
+      "color" => "#0f5ba7"
+    ]
+    */    
+   
 ```
 
 ##### List of card types(16):
