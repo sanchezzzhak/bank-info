@@ -2243,3 +2243,10 @@
     enTitle: Primorye Bank
     url: https://primbank.ru/
     color: '#058B8C'
+322:
+    name: lanta
+    country: ru
+    title: Ланта-Банк
+    enTitle: Lanta-Bank
+    url: https://lanta.ru/
+    color: '#B71338'
