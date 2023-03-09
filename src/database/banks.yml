@@ -2257,3 +2257,10 @@
     enTitle: Bystro-Bank
     url: https://www.bystrobank.ru/
     color: '#FF9900'
+324:
+    name: sinara
+    country: ru
+    title: Банк Синара
+    enTitle: Sinara Bank
+    url: https://www.sinara-group.com/
+    color: '#004039'
