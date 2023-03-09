@@ -2229,3 +2229,10 @@
     enTitle: Rogers Bank
     url: https://www.rogersbank.com/
     color: '#DA291C'
+320:
+    name: kazan
+    country: ru
+    title: Банк Казани
+    enTitle: Bank of Kazan
+    url: https://bankofkazan.ru/
+    color: '#8CC63F'
