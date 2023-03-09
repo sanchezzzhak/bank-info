@@ -2250,3 +2250,10 @@
     enTitle: Lanta-Bank
     url: https://lanta.ru/
     color: '#B71338'
+323:
+    name: bystrobank
+    country: ru
+    title: Быстро-Банк
+    enTitle: Bystro-Bank
+    url: https://www.bystrobank.ru/
+    color: '#FF9900'
