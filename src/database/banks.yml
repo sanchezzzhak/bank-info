@@ -2264,3 +2264,10 @@
     enTitle: Sinara Bank
     url: https://www.sinara-group.com/
     color: '#004039'
+325:
+    name: Ozon Bank
+    country: ru
+    title: Ozon Банк
+    enTitle: Ozon Bank
+    url: https://finance.ozon.ru/
+    color: '#019EF9'
