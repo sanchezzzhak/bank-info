@@ -2276,5 +2276,12 @@
   country: ru
   title: Иш Банк
   enTitle: İş Bank
-  url: http://isbank.com.ru/
+  url: https://isbank.com.ru/
   color: '#0038A8'
+327:
+  name: finsb
+  country: ru
+  title: Банк Финсервис
+  enTitle: Bank FinService
+  url: https://www.finsb.ru/
+  color: '#41628E'
