@@ -2271,3 +2271,10 @@
     enTitle: Ozon Bank
     url: https://finance.ozon.ru/
     color: '#019EF9'
+326:
+  name: isbank-ru
+  country: ru
+  title: Иш Банк
+  enTitle: İş Bank
+  url: http://isbank.com.ru/
+  color: '#0038A8'
